@@ -40,15 +40,14 @@ This project implements a custom autograd engine using Python and an object-orie
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/singye3/singye-karpathy.git
    ```
 
 2. Install the required libraries:
    ```bash
    pip install -r requirements.txt
    ```
-   Note: `requirements.txt` should include `graphviz`, `numpy`, `matplotlib`, and `torch` (for comparison purposes).
+
 
 ## Usage
 
