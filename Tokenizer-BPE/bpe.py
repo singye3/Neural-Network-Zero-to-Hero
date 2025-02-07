@@ -333,7 +333,7 @@ if __name__ == "__main__":
     decoded_basic = basic_tokenizer.decode(encoded_basic)
     print("Encoded:", encoded_basic)
     print("Decoded:", decoded_basic)
-
+    
     print("\n=== RegexTokenizer ===")
     regex_tokenizer = RegexTokenizer()
     regex_tokenizer.register_special_tokens({"<|endoftext|>": 100257})
